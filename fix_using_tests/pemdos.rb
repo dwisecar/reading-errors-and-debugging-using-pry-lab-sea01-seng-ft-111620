@@ -4,7 +4,7 @@
 def snake_it_up(string)
   if string[0] == "s"
     
-     "Ssssssssss" + string
+     "ssssssssss" + string
   else
     string
   end
